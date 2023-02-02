@@ -1,0 +1,21 @@
+﻿@using KostaTestTask.Models
+@model List<DepartmentModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta name="viewport" content="width=device-width" />
+        <title>List</title>
+</head>
+<body>
+    <h2 align="center">Отделы</h2>
+    @{
+        foreach(var line in Model)
+        {
+            string result = new String('-', line.Gen);
+            string link = "http://127.0.0.1:8080/GetEmployees?departmentId="+Convert.ToString(line.ID).ToUpper();
+            <p align="left"><a href=@link>@result@line.Name </p>
+        }
+    }
+</body>
+</html>

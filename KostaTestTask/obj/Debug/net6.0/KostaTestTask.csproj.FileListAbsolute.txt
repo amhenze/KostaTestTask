@@ -1,0 +1,340 @@
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\appsettings.Development.json
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\appsettings.json
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\KostaTestTask.exe
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\KostaTestTask.deps.json
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\KostaTestTask.runtimeconfig.json
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\KostaTestTask.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\KostaTestTask.pdb
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\AutoMapper.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\Serilog.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.csproj.AssemblyReference.cache
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.AssemblyInfoInputs.cache
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.AssemblyInfo.cs
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.csproj.CoreCompileInputs.cache
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\staticwebassets.build.json
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\staticwebassets.development.json
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\scopedcss\bundle\KostaTestTask.styles.css
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.csproj.CopyComplete
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\refint\KostaTestTask.dll
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.pdb
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\KostaTestTask.genruntimeconfig.cache
+C:\Тестовые\Тестовое задание, КОСТА\code\KostaTestTask\obj\Debug\net6.0\ref\KostaTestTask.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\appsettings.Development.json
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\appsettings.json
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\KostaTestTask.exe
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\KostaTestTask.deps.json
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\KostaTestTask.runtimeconfig.json
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\KostaTestTask.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\KostaTestTask.pdb
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\AutoMapper.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.csproj.AssemblyReference.cache
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.AssemblyInfoInputs.cache
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.AssemblyInfo.cs
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.csproj.CoreCompileInputs.cache
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.MvcApplicationPartsAssemblyInfo.cs
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.MvcApplicationPartsAssemblyInfo.cache
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\staticwebassets.build.json
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\staticwebassets.development.json
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\scopedcss\bundle\KostaTestTask.styles.css
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.csproj.CopyComplete
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.dll
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\refint\KostaTestTask.dll
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.pdb
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.genruntimeconfig.cache
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\ref\KostaTestTask.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.RazorAssemblyInfo.cache
+C:\CodeFolder\KostaTestTask\obj\Debug\net6.0\KostaTestTask.RazorAssemblyInfo.cs
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Crc32.NET.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\jose-jwt.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\LibNoise.NetStandart.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\log4net.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Maybe.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\MiNET.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\AStarNavigator.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fNbt.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\MiNET.LevelDB.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\SharpAvi.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\SixLabors.ImageSharp.Drawing.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Humanizer.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\MessagePack.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.Build.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.Common.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CodeFolder\KostaTestTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

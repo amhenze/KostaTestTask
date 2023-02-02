@@ -1,0 +1,32 @@
+﻿@using KostaTestTask.Models
+@model IEnumerable<EmployeeModel>
+@{
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+        <meta name="viewport" content="width=device-width" />
+        <title>List</title>
+</head>
+<body>
+    <h2 align="center">Сотрудники отдела</h2>
+    @{
+        foreach(var line in Model)
+        {
+            TimeSpan span = DateTime.Now-line.DateOfBirth;
+            DateTime zeroTime = new DateTime(0);
+            string linkDelete = "http://127.0.0.1:8080/DeleteEmployee?Id=" + line.Id;
+            string linkEdit = @$"http://127.0.0.1:8080/EditEmployees?Id={line.Id}&DepartmentID={line.DepartmentID}&SurName={line.SurName}&FirstName={line.FirstName}&Patronymic={line.Patronymic}&DocSeries={line.DocSeries}&DocNumber={line.DocNumber}&Position={line.Position}&DateOfBirth={line.DateOfBirth}";
+            int years = (zeroTime + span).Year;
+                <p align="left">ID сотрудника @line.Id @line.SurName @line.FirstName @line.Patronymic Возраст:@years  
+                <a href=@linkEdit>Изменить запись </a>   
+                <a>     </a>
+                <a href=@linkDelete> Удалить запись </a>
+                </p>
+
+        }
+        <a href="http://127.0.0.1:8080/CreateEmployeesForm">Добавить сотрудника</a>
+    }
+</body>
+</html>

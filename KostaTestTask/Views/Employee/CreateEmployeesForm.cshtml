@@ -1,0 +1,41 @@
+﻿@using KostaTestTask.Models
+@model EmployeeModel
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta name="viewport" content="width=device-width" />
+        <title>List</title>
+</head>
+<body>
+    <h2 align="center">Сотрудники отдела</h2>
+@using(Html.BeginForm("AddEmployees", "Employee", FormMethod.Get))
+{
+    <table>
+        <tr><td><p>Введите Id </p></td>
+            <td>@Html.TextBox("Id") </td></tr>
+        <tr><td><p>Введите DepartmentID :</p></td>
+            <td>@Html.TextBox("DepartmentID","FB9D1A43-5796-4190-ABD4-39FFD8C87476") </td></tr>
+        <tr><td><p>Введите SurName </p></td>
+            <td>@Html.TextBox("SurName") </td></tr>
+        <tr><td><p>Введите FirstName :</p></td>
+            <td>@Html.TextBox("FirstName") </td></tr>
+        <tr><td><p>Введите Patronymic </p></td>
+            <td>@Html.TextBox("Patronymic") </td></tr>
+        <tr><td><p>Введите DateOfBirth :</p></td>
+            <td>@Html.TextBox("DateOfBirth") </td></tr>
+        <tr><td><p>Введите DocSeries </p></td>
+            <td>@Html.TextBox("DocSeries") </td></tr>
+        <tr><td><p>Введите DocNumber :</p></td>
+            <td>@Html.TextBox("DocNumber") </td></tr>
+        <tr><td><p>Введите Position :</p></td>
+            <td>@Html.TextBox("Position") </td></tr>
+        <tr><td><input type="submit" value="Создать" /> </td>
+                <td></td></tr>
+    </table>
+}
+</body>
+</html>
+

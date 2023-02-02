@@ -1,0 +1,43 @@
+﻿@using KostaTestTask.Models
+@model EmployeeModel
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta name="viewport" content="width=device-width" />
+        <title>List</title>
+</head>
+<body>
+    <h2 align="center">Сотрудники отдела</h2>
+@using(Html.BeginForm("UpdateEmployee", "Employee", FormMethod.Get))
+{
+            TimeSpan span = DateTime.Now-Model.DateOfBirth;
+            DateTime zeroTime = new DateTime(0);
+            int years = (zeroTime + span).Year;
+    <table>
+        <tr><td><p>Введите Id </p></td>
+            <td>@Html.TextBox("Id",Model.Id) </td></tr>
+        <tr><td><p>Введите DepartmentID :</p></td>
+            <td>@Html.TextBox("DepartmentID",Model.DepartmentID) </td></tr>
+        <tr><td><p>Введите SurName </p></td>
+            <td>@Html.TextBox("SurName",Model.SurName) </td></tr>
+        <tr><td><p>Введите FirstName :</p></td>
+            <td>@Html.TextBox("FirstName",Model.FirstName) </td></tr>
+        <tr><td><p>Введите Patronymic </p></td>
+            <td>@Html.TextBox("Patronymic",Model.Patronymic) </td></tr>
+        <tr><td><p>Введите DateOfBirth :</p></td>
+            <td>@Html.TextBox("DateOfBirth",Model.DateOfBirth)  Возраст сотрудника(@years)  </td></tr>
+        <tr><td><p>Введите DocSeries </p></td>
+            <td>@Html.TextBox("DocSeries",Model.DocSeries)</td></tr>
+        <tr><td><p>Введите DocNumber :</p></td>
+            <td>@Html.TextBox("DocNumber",Model.DocNumber) </td></tr>
+        <tr><td><p>Введите Position :</p></td>
+            <td>@Html.TextBox("Position",Model.Position) </td></tr>
+        <tr><td><input type="submit" value="Внести изменения" /> </td>
+                <td></td></tr>
+    </table>
+}
+</body>
+</html>
+
+
